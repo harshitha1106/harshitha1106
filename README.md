@@ -18,10 +18,10 @@ I'm a second-year ECE student based in Hyderabad building full-stack web project
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML5, CSS3, Vanilla JavaScript (beginner)  
+**Frontend:** HTML5, CSS3, JavaScript (beginner)  
 **Backend:** Python (intermediate)  
 **Systems:** C (basic)  
-**Tools:** Git, GitHub, VS Code, Linux Terminal  
+**Tools:** Git, GitHub, VS Code 
 
 ---
 
