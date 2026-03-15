@@ -7,14 +7,8 @@
 
 ## 🎯 About Me
 
-I'm a second-year ECE student based in Hyderabad building full-stack web projects and strengthening my problem-solving skills through DSA. I'm passionate about contributing to open-source, participating in GSoC, and securing internships.
+I'm a second-year ECE student based in Hyderabad building full-stack web projects and strengthening my problem-solving skills through DSA. I'm passionate about contributing to open-source, and securing internships.
 
-**Currently learning:**
-- Advanced data structures (linked lists, trees coming next)
-- Full-stack web development with JavaScript
-- Open-source contribution best practices
-
----
 
 ## 🛠️ Tech Stack
 
@@ -34,16 +28,6 @@ I'm a second-year ECE student based in Hyderabad building full-stack web project
 ### Python Projects
 - **[Expense-Tracker](https://github.com/harshitha1106/Expense-Tracker)** - CLI expense tracking with data persistence
 - **[fake-headline-generator](https://github.com/harshitha1106/fake-headline-generator)** - Dynamic text generation using Python
-
----
-
-## 🎓 Learning Goals (2026)
-
-- [ ] Complete DSA (arrays, strings, trees, graphs, sorting)
-- [ ] Build 2-3 full-stack projects with JavaScript & backend
-- [ ] Contribute meaningfully to open-source projects
-- [ ] Apply for GSoC 2026
-- [ ] Secure summer internship
 
 ---
 
