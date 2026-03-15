@@ -1,7 +1,7 @@
 # Hey, I'm Harshitha 👋
 
 **Electronics & Communication Engineering Student** | B.Tech 2nd Year  
-**Web Developer** | DSA Learner | GSoC 2026 Aspirant
+**Web Developer** | DSA Learner
 
 ---
 
