@@ -110,6 +110,6 @@ I'm always open to **collaborations**, **mentorship**, and **learning opportunit
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=harshitha1106&style=for-the-badge&color=61DAFB)
+![Visitors](https://u8views.com/ghpvc/?username=harshitha1106&style=for-the-badge&color=61DAFB)
 
 </div>
