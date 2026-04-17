@@ -49,21 +49,6 @@ I'm a **second-year B.Tech Electronics & Communication Engineering** student bas
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Currently Learning
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitha1106&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=61DAFB&text_color=E6F1FF&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha1106&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=E6F1FF&bg_color=0D1117)
 
 </div>
 
@@ -98,25 +83,6 @@ I'm a **second-year B.Tech Electronics & Communication Engineering** student bas
 | **[Temperature Converter](https://github.com/harshitha1106/Temperature-Converter)** | First project - temperature unit converter |
 | **[Calculator](https://github.com/harshitha1106/calculator)** | Basic arithmetic operations in C |
 | **[Quiz Game](https://github.com/harshitha1106/quiz-game)** | Multiple-choice quiz with scoring |
-
----
-
-## 🌱 Currently Learning
-
-- ⚛️ **React.js** - Building interactive UIs with components
-- 🐍 **Flask** - Backend web development with Python
-- 🧮 **Data Structures & Algorithms** - Problem-solving for placements
-- 📚 **SQL** - Database management fundamentals
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Contribution Graph](https://ghchart.rshah.org/tokyonight/harshitha1106)
-
-</div>
 
 ---
 
