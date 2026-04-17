@@ -112,6 +112,4 @@ I'm always open to **collaborations**, **mentorship**, and **learning opportunit
 
 ![Visitors](https://komarev.com/ghpvc/?username=harshitha1106&style=for-the-badge&color=61DAFB)
 
-Made with ❤️ by **Harshitha Pamidimukkala**
-
 </div>
