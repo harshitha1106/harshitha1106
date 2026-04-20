@@ -94,6 +94,13 @@ I'm a **second-year B.Tech Electronics & Communication Engineering** student bas
 
 ---
 
+
+## 🤝 Open Source Contributions
+- Contributing to beginner-friendly issues on GitHub
+- Learning how to work with forks, branches, and pull requests
+- Exploring frontend and documentation contributions
+
+
 ## 💬 Let's Connect!
 
 <div align="center">
