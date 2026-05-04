@@ -1,43 +1,11 @@
-# Hi, I'm Harshitha 👋
+# Hey I'm Harshitha:
+I’m an ECE student who likes building real projects using Python and web development. I’ve worked on an AI-based expense tracker and I’m focused on improving my coding and problem-solving skills.<br><br>👩‍💻 I’m currently working on  <br>AI Expense Tracker and improving my web development projects<br><br>🤝 I’m looking to collaborate on  <br>Beginner-friendly web development and open source projects<br><br>🆘 I’m looking for help with  <br>Writing better JavaScript logic and understanding real project structure<br><br>💬 Ask me about  <br>Python basics and simple web apps<br><br>⚡ Fun fact  <br>I learn faster by building projects than just watching tutorials
 
-Second-year B.Tech Electronics & Communication Engineering student from Hyderabad, India.  
-Interested in web development, Python, AI-based projects, and beginner-friendly open source contributions.  
-Currently building practical projects and preparing for software and web development internships.
 
-## About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshitha-p-ab0767338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithapamidimukala@gmail.com) 
 
-- Building projects using HTML, CSS, JavaScript, and Python
-- Practicing problem solving and core programming fundamentals
-- Exploring open source through beginner-friendly issues and pull requests
-- Interested in web development, Python, and software engineering roles
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
-## Skills
-
-**Languages:** C, Python, JavaScript, HTML, CSS  
-**Tools:** Git, GitHub, VS Code, SQLite, Arduino  
-**Focus Areas:** Web Development, Python Projects, AI Basics, Open Source
-
-## Featured Projects
-
-### [AI Assistant with Expense Tracking](https://github.com/harshitha1106/ai-assistant)
-A Python-based AI assistant that supports natural conversation, detects expenses automatically, stores them in SQLite, and uses conversation memory.
-
-### [To-Do App](https://github.com/harshitha1106/To-Do-App)
-A responsive task management app built with HTML, CSS, and JavaScript featuring add, edit, delete, filter, and local storage support.
-
-## Open Source
-
-- Contributed to beginner-friendly GitHub issues
-- Practicing collaboration using forks, branches, and pull requests
-- Worked on an EduAid frontend issue related to clearing/resetting text input.[page:1]
-
-## Looking For
-
-- Web Development Intern roles
-- Python / Software Intern opportunities
-- Beginner-friendly open source and project-based learning opportunities
-
-## Connect
-
-- GitHub: [harshitha1106](https://github.com/harshitha1106)
-- LinkedIn: [harshitha-p](https://www.linkedin.com/in/harshitha-p-ab0767338)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
