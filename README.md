@@ -1,4 +1,4 @@
-# Hey I'm Harshitha:
+Hey I'm Harshitha
 I’m an ECE student who likes building real projects using Python and web development. I’ve worked on an AI-based expense tracker and I’m focused on improving my coding and problem-solving skills.<br><br>👩‍💻 I’m currently working on  <br>AI Expense Tracker and improving my web development projects<br><br>🤝 I’m looking to collaborate on  <br>Beginner-friendly web development and open source projects<br><br>🆘 I’m looking for help with  <br>Writing better JavaScript logic and understanding real project structure<br><br>💬 Ask me about  <br>Python basics and simple web apps<br><br>⚡ Fun fact  <br>I learn faster by building projects than just watching tutorials
 
 
