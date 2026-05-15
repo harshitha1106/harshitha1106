@@ -56,6 +56,10 @@
 
 ---
 
+## Open Source
+
+- Fixed a timer bug in the typing test project in [100_days_100_web_project](https://github.com/dhairyagothi/100_days_100_web_project) (GSSoC 2026), ensuring the countdown stops correctly after sentence completion.
+
 <p align="center">
   <i>“I learn best by building, breaking, and fixing my own projects.”</i>
 </p>
