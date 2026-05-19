@@ -55,6 +55,9 @@
   Static CRM-style dashboard page built with HTML and CSS to practice clean layout, sections, and simple UI organization.
 
 ---
+##Activity Section
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitha1106&show_icons=true&theme=tokyonight)
 
 ## Open Source
 
