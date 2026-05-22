@@ -64,14 +64,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitha1106&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
   <i>"I learn best by building, breaking, and fixing my own projects."</i> 🔧
 </p>
