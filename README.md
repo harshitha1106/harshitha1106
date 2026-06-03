@@ -36,9 +36,12 @@
 
 > 🟢 **Active Contributor** @ [GirlScript Summer of Code 2026](https://gssoc.girlscript.tech/)
 
-- 🐛 Fixed a **timer bug** in the typing test module of [100_days_100_web_project](https://github.com/dhairyagothi/100_days_100_web_project) — countdown now stops correctly after sentence completion
+#### 📂 Contribution Portfolio
 
----
+🔗 **PRVault:** https://github.com/harshitha1106/PRVault
+
+A collection of my merged pull requests, bug fixes, UI improvements, and open-source contributions.
+
 
 ### 💻 Tech Stack
 
